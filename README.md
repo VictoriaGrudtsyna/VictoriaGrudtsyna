@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Victoria</h1>
+<h1 align="left">Hi 👋, I'm Victoria</h1>
 
 🔭 I’m currently working on **MedScheduler** → [GitHub Repo](https://github.com/SanriaArgos/MedScheduler)  
 🌱 I’m currently learning **C++**  
