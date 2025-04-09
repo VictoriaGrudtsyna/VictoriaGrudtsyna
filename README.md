@@ -2,8 +2,6 @@
 - 🔭 I’m currently working on [MedScheduler](https://github.com/SanriaArgos/MedScheduler)
 
 - 🌱 I’m currently learning **c++**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
