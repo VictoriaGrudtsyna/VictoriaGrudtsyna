@@ -3,8 +3,6 @@
 🔭 I’m currently working on <strong>MedScheduler</strong> → [GitHub Repo](https://github.com/SanriaArgos/MedScheduler)  
 🌱 I’m currently learning <strong>C++</strong>  
 
-<h3 align="left">🛠 Tech Stack</h3>
-
 ### 🔤 Languages
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 15px; margin-bottom: 20px;">
 
