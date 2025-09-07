@@ -31,11 +31,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50" style="transition: transform 0.3s; filter: drop-shadow(0 0 5px #336791);" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
 
-  <!-- Django -->
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="50" height="50" style="transition: transform 0.3s; filter: drop-shadow(0 0 5px #092E20);" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-
   <!-- Qt -->
   <a href="https://www.qt.io/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="Qt" width="50" height="50" style="transition: transform 0.3s; filter: drop-shadow(0 0 5px #41CD52);" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
